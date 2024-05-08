@@ -24,7 +24,7 @@
 
 ###
 
-<h2 style="font-weight: bold;">Talking about Personal Stuffs:</h2>
+<h2 style="font-weight: bold;"> 🚀 Talking about Personal Stuffs:</h2>
 <ul align="left">
   <li>🛠   I’m currently working with Reactjs, Django, Nodejs, Mongodb, Javascript, etc.</li>
   <li>🚀   I’m currently learning Full Stack Development.</li>
