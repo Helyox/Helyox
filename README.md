@@ -24,7 +24,8 @@
   <li>🚀   I’m currently learning Full Stack Development.</li>
   <li>👨🏻‍💻   Most of my projects are available on Github.</li>
   <li>📫   How to reach me: <a href="mailto:helyoxytbb@gmail.com">helyoxytbb@gmail.com</a>.</li>
-<hr style="border-color: blue;">
+  <li>🖌️   Proficient in UX/UI design.</li>
+  <hr style="border-color: blue;">
 </ul>
 
 
