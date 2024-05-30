@@ -20,7 +20,7 @@
 
 <h2 style="font-weight: bold;"> 🚀 Talking about Personal Stuffs:</h2>
 <ul align="left">
-  <li>🛠   I’m currently working with Reactjs, Django, Nodejs, Mongodb, Javascript, etc.</li>
+  <li>🛠   I’m currently working with Reactjs, Javascript, HTML, CSS, Python etc.</li>
   <li>🚀   I’m currently learning Full Stack Development.</li>
   <li>👨🏻‍💻   Most of my projects are available on Github.</li>
   <li>📫   How to reach me: <a href="mailto:helyoxytbb@gmail.com">helyoxytbb@gmail.com</a>.</li>
