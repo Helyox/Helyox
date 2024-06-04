@@ -52,9 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Helyox&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=helyox&theme=graywhite&show_icons=true" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ###
