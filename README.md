@@ -14,7 +14,7 @@
 
 <h2 style="font-weight: bold;"> 🚀 Talking about Personal Stuffs:</h2>
 <ul align="left">
-  <li>🛠   I’m currently working with Reactjs, React Native,Javascript, HTML, CSS, Python</li>
+  <li>🛠   I’m currently working with Reactjs, React Native,Javascript, TypeScript, HTML, CSS, Python</li>
   <li>🚀   I’m currently learning Full Stack Development.</li>
   <li>📫   How to reach me: <a href="mailto:helyoxytbb@gmail.com">helyoxytbb@gmail.com</a>.</li>
   <li>🖌️   Proficient in UX/UI design.</li>
