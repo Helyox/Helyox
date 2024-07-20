@@ -1,6 +1,6 @@
 
 ###
-g
+
 <h1 align="center">hey there 👋</h1>
 
 <h2 style="font-weight: bold;">Glad to see you here!</h2>
